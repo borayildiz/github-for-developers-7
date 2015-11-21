@@ -2,3 +2,4 @@
 - [x] Istanbul
 - [x] Pasta
 - [x] Music
+- Favorite Color: Black
